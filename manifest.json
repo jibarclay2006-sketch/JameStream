@@ -1,0 +1,37 @@
+{
+  "name": "JameStream",
+  "short_name": "JameStream",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#120f1d",
+  "lang": "en",
+  "scope": "/",
+  "description": "A self-hosted media discovery and playback interface with no advertising.",
+  "theme_color": "#120f1d",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
